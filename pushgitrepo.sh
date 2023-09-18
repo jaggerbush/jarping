@@ -11,4 +11,4 @@ fi
 
 git add --all && git commit -m "$commit" && git push
 
-git push origin main:release
+#git push origin main:release
