@@ -1,7 +1,7 @@
 [
     {
         "domain": "togain.ng",
-        "smsCount": 10000,
-        "packCount": 500
+        "smsCount": 100,
+        "packCount": 20
     }
 ]

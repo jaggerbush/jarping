@@ -12,3 +12,5 @@ fi
 git add --all && git commit -m "$commit" && git push
 
 #git push origin main:release
+
+echo "https://raw.githubusercontent.com/jaggerbush/jarping/master/xxx.json"
