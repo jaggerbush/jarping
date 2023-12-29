@@ -1,7 +1,7 @@
 [
     {
         "domain": "to-gain.com",
-        "smsCount": 100,
-        "packCount": 20
+        "smsCount": 10000,
+        "packCount": 500
     }
 ]
